@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongo": "^0.1.0",
+    "express": "^4.17.3",
     "mongoose": "^6.2.8"
   }
 }
