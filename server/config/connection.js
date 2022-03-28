@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/encountertracker', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/<DataBase Name>', {
   useNewUrlParser: true,
 });
 
